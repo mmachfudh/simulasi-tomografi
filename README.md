@@ -1,6 +1,6 @@
-# Simulasi Tomografi
+# Simulator Tomografi
 
-> simulasi program dapat dilihat pada video dibawah ini
+> program simulator dapat dilihat pada video dibawah ini
 
 > klik pada gambar untuk menjalankan video
 
